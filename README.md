@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [stopsimping.github.io/aboutme](stopsimping.github.io/aboutme)
 
-- ⚡ Fun fact **I have strong teeth**
+- ⚡ I've started coding the : 08/01/2022
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
