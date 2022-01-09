@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm stopsimping</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate new developer from India</h3>
 
 <p align="center"><img src="https://c.tenor.com/mJDFd8j-bD0AAAAM/yes-moment-moment.gif"/></p>
 
