@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center"><img src="https://c.tenor.com/mJDFd8j-bD0AAAAM/yes-moment-moment.gif"/></p>
+
 - 🌱 I’m currently learning **C/C++, Python and lot more!**
 
 - 👨‍💻 All of my projects are available at [stopsimping.github.io/projects](stopsimping.github.io/projects)
