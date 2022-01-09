@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm stopsimping</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="center" src="https://c.tenor.com/mJDFd8j-bD0AAAAM/yes-moment-moment.gif"/>
+<p align="center"><img src="https://c.tenor.com/mJDFd8j-bD0AAAAM/yes-moment-moment.gif"/></p>
 - 🌱 I’m currently learning **C/C++, Python and lot more!**
 
 - 👨‍💻 All of my projects are available at [stopsimping.github.io/projects](stopsimping.github.io/projects)
