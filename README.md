@@ -1,2 +1,2 @@
-<h2 align="center">Based</h2>
-<p align="center"><img src="https://cdn.discordapp.com/attachments/954542372837023796/968958701195132969/unknown.png"/></p>
+<h2 align="center"></h2>
+<p align="center"><img src="https://preview.redd.it/2l53xowjtta61.png?auto=webp&s=b42f6e625b63f51d699fa0cd8bf7439b51e4e828"/></p>
