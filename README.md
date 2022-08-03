@@ -1,10 +1,2 @@
-<h2 align="center">Keep grinding.</h2>
-<p align="center"><img src="https://preview.redd.it/2l53xowjtta61.png?auto=webp&s=b42f6e625b63f51d699fa0cd8bf7439b51e4e828"/></p>
-
-
-  
-    
-      
-
-https://user-images.githubusercontent.com/87366457/166307379-6735ca28-fdb2-4f9d-8f61-09c12e0b3532.mp4
-
+<h2 align="center">Top G.</h2>
+<p align="center"><img src="https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-15/287154888_357915929800808_7693605777128212683_n.jpg?stp=dst-jpg_e35&_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_cat=1&_nc_ohc=NhTX-toyUVoAX98z7QK&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjg1Njk2NzIyMzA3MTk5MTk0Nw%3D%3D.2-ccb7-5&oh=00_AT8mLo_3TgKKIcYmnnfvkAJIsF0Y-5PBltrC5OeoQ3lZEQ&oe=62F1C9CA&_nc_sid=30a2ef"/></p>
